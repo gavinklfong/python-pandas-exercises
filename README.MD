@@ -11,6 +11,12 @@ Before you start, please make sure you have installed the following on your loca
 
 Clone this repository to your local machine. 
 
+There are 2 files:
+* Exercises.ipynb - Exercises & the expected outputs
+* Solution.ipynb - Exercises + Solution
+
+The exercise is based on the payroll data file on Kaggle, please visit this [link](https://www.kaggle.com/datasets/dsfelix/employees-payroll-in-los-angeles) and get the file.
+
 Run this command to start JupyterLab:
 ```
 jupyter lab
